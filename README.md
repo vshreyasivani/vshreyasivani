@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 </div>
 
@@ -76,7 +76,7 @@ I'm passionate about full-stack development and have been working on projects in
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-sivani-9a84122bb/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vshreyasivani@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vshreyasivani)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/vshreyasivani/vshreyasivani/blob/main/V_Shreya_Sivani_Resume.pdf)
 
 ---
 
