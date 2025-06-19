@@ -10,7 +10,14 @@ I'm a **Computer Science Engineering student** at [PES University, Bangalore](ht
 
 I'm passionate about full-stack development and have been working on projects involving AI/ML. I'm always ready and interested to explore and learn new stuffs with enthusiasm.
 
-📧 **Reach out:** [vshreyasivani@gmail.com](mailto:vshreyasivani@gmail.com)
+
+
+---
+## 🤝 **Let's Connect**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-sivani-9a84122bb/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vshreyasivani@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/vshreyasivani/vshreyasivani/blob/main/V%20Shreya%20Sivani_Resume.pdf)
 
 ---
 
@@ -70,19 +77,13 @@ I'm passionate about full-stack development and have been working on projects in
 
 </div>
 
----
 
-## 🤝 **Let's Connect**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-sivani-9a84122bb/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vshreyasivani@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/vshreyasivani/vshreyasivani/blob/main/V_Shreya_Sivani_Resume.pdf)
 
 ---
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=vshreyasivani&color=blue)
+
 
 *Always learning, always building* ✨
 
