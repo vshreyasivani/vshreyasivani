@@ -6,7 +6,7 @@
 
 </div>
 
-I'm a **Computer Science Engineering student** at [PES University, Bangalore](https://www.pes.edu) with a **CGPA of 9.41**. Currently in my third year, I enjoy building web applications and exploring new technologies to solve interesting problems.
+I'm a **Computer Science Engineering student** at [PES University, Bangalore](https://www.pes.edu) with a **CGPA of 9.41**. Currently in my fourth year, I enjoy building web applications and exploring new technologies to solve interesting problems.
 
 I'm passionate about full-stack development and have been working on projects involving AI/ML. I'm always ready and interested to explore and learn new stuffs with enthusiasm.
 
